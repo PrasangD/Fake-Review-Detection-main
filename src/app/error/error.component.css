@@ -1,0 +1,13 @@
+.bg-img {
+    /* The image used */
+    background-image: url('../../assets/images/bg.jfif');
+  
+    /* Control the height of the image */
+    min-height: 50em;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
